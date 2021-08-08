@@ -1,5 +1,5 @@
 {
-   "token": "ODQyMDEwOTY5NzY0NTI4MTU5.YJvF0g.rsJ_V42C2W4bwI9d8u3nzMubJoA",
+   "token": "",
    "prefix": "-",
    "clientsettings": {
       "nodes": [
@@ -11,8 +11,8 @@
       ]
    },
    "spotify": {
-      "clientSecret": "74538ba2d4f14c25a9769256155a9974",
-      "clientID": "754ca453dc774aa5a45e4a1d1a03e847"
+      "clientSecret": "",
+      "clientID": ""
    },
    "settings": {
       "COMMENT": "time_delay 0 === insta leave",
