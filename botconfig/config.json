@@ -1,0 +1,48 @@
+{
+   "token": "ODQyMDEwOTY5NzY0NTI4MTU5.YJvF0g.rsJ_V42C2W4bwI9d8u3nzMubJoA",
+   "prefix": "-",
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "localhost",
+            "port": 2333,
+            "password": "youshallnotpass"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "74538ba2d4f14c25a9769256155a9974",
+      "clientID": "754ca453dc774aa5a45e4a1d1a03e847"
+   },
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "progressbar_emoji": "🔶",
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 120000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 3000000
+      },
+      "selfDeaf": true,
+      "serverDeaf": true
+   },
+   "lyricssettings": {
+      "lyrics_finder": true,
+      "COMMENT": "my suggestion is to use ksoft_api on true and paste in the api key u can sign up, until u get the key use lyrics_finder which is way weaker but better the nothing",
+      "ksoft_api": {
+         "use_this_instead": false,
+         "api_key": ""
+      }
+   },
+   "ownerIDS": [
+      "709210314230726776"
+   ],
+   "status": {
+      "text": "-help | PMWS about to start",
+      "type": "PLAYING",
+      "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
+      "url": ""
+   }
+}

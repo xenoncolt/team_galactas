@@ -1,0 +1,82 @@
+{
+  "msg": {
+    "COMMENT": "IF YOU DECIDE TO USE CUSTOM EMOJIS, USE THE NAME AND THE ID IN MSG, EXAMPLE: ⬜ --> <:progressbar_left_filled:818558865268408341>",
+
+    "ERROR" : "❌",
+    "SUCCESS" : "<a:986700603c4647c8ad80c4d88ca4fce5:865209411832512544>",
+
+    "disabled" : "❌",
+    "enabled" : "<a:986700603c4647c8ad80c4d88ca4fce5:865209411832512544>",
+
+    "progress_bar": {
+      "leftindicator": "[",
+      "rightindicator": "]",
+
+      "emptyframe": "⬜",
+      "filledframe": "🟧"
+    },
+
+    "playing": "<a:speakers:865209866942939196>",
+    "pruning": "💬",
+    "equalizer": "🎚",
+    "cleared": "🗑",
+    "leave_on_empty": "🗣️",
+    "time": "⌛",
+    "premium": "💰",
+    "song_by": "💯",
+    "setup": "⚙️",
+    "dj": "🎧",
+    "bot": "🤖",
+    "search": "🔎",
+    "resume": "▶",
+    "pause": "⏸",
+    "lyrics": "📃",
+    "disk": "<a:autoplay:857501071274803210>",
+    "ping": "🏓",
+    "coin": ":coin:",
+    "hack": "<a:8633pepehack:830769374540595210>",
+    "lamo": "<a:1663pepebonk:831555227517583440>",
+    "rate": "<a:5826pepethinklight:830769375975309332>",
+
+    "rewind": "<:20secbackward:867131051129045012>",
+    "forward": "<:20secforward:867130624325845012>",
+    "pause_resume": "⏯️",
+    "stop": ":octagonal_sign:",
+    "previous_track": "⏮️",
+    "skip_track": "⏭️",
+    "replay_track": "<:repeatbutton_1f501:867134126796570633>",
+    "reduce_volume": "🔉",
+    "raise_volume": "🔊",
+    "toggle_mute": "🔇",
+    "repeat_mode": "<:repeatsinglebutton_1f502:867134140759670844>",
+    "autoplay_mode": "<a:autoplay:857501071274803210>",
+    "shuffle": "<:shuffletracksbutton_1f500:866996655940698162>",
+    "show_queue": "📑",
+    "show_current_track": "<a:tenor:866992458126327819>"
+  },
+  "react": {
+
+    "COMMENT": "IF YOU DECIDE TO USE CUSTOM EMOJIS, USE JUST THE ID IN REACT, EXAMPLE: ⏪ --> 818558865268408341",
+
+    "ERROR" : "❌",
+    "SUCCESS" : "865209411832512544",
+
+
+    "rewind": "867131051129045012",
+    "forward": "867130624325845012",
+    "pause_resume": "⏯️",
+    "stop": "🛑",
+    "previous_track": "⏮️",
+    "skip_track": "⏭️",
+    "replay_track": "867134126796570633",
+    "reduce_volume": "🔉",
+    "raise_volume": "🔊",
+    "toggle_mute": "🔇",
+    "repeat_mode": "867134140759670844",
+    "autoplay_mode": "857501071274803210",
+    "shuffle": "866996655940698162",
+    "show_queue": "📑",
+    "show_current_track": "866992458126327819"
+  }
+
+}
